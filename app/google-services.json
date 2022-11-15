@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "794217948468",
+    "project_id": "your-town-worksop",
+    "storage_bucket": "your-town-worksop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794217948468:android:f5d1347ad61c39fab83161",
+        "android_client_info": {
+          "package_name": "com.worksop.app.az"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794217948468-s379n9r7qc7blhfi6b4sejf0135d1tpf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhnuqUeXEeBZ5jYUTAvyDwc6mYo7cBC9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794217948468-s379n9r7qc7blhfi6b4sejf0135d1tpf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
