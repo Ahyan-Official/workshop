@@ -10,7 +10,7 @@ public class MyApplication extends Application {
 
 
     private static MyApplication mInstense;
-    private static final String ONESIGNAL_APP_ID = "70e573d0-3bc6-4ded-870d-68ed287a66c0";
+    private static final String ONESIGNAL_APP_ID = "e0a2d594-6cd9-43bc-ac6f-20e7f6fbed18";
 
 
     public MyApplication(){
